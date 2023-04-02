@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font: 12px/1.4 'Montserrat', 'sans-serif';
+  color: #444;
+  min-height: 100vh;
+  display: block;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
