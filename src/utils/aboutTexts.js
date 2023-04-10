@@ -1,6 +1,6 @@
 export const titleText = {
     title: 'About Me',
-    subtitle: "I'm a Full-Stack developer, been working in the web development for ecommerce more than 8 years now, been working with multiple platforms and also with diferent technologies from wordpress, laravel and react."
+    subtitle: "With more than 8 years of experience in web development, I have established myself as a skilled Full-Stack developer with a focus on ecommerce. I have worked with numerous platforms and technologies, including WordPress, Laravel, and React, and I am confident that I can deliver the solutions you need to succeed."
 };
 
 export const techSkills = [
