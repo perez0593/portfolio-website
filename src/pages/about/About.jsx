@@ -91,26 +91,16 @@ export default function About() {
                 <div className="certificates-content">
                   <ul>
                     <li>Linux Professional Institue - Linux Essentials / <a href={LPIDoc} download="LPICertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
-                    <li>Social Network Analysis (Gephi) @ Cibernarium, Barcelona / <a href={GephiDoc} download="LPICertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
-                    <li>Facebook Application Creation @ Cibernarium, Barcelona / <a href={FacebookDoc} download="LPICertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
-                    <li>Google Apps Administration @ Cibernarium, Barcelona / <a href={GooglePlacesDoc} download="LPICertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
-                    <li>Joomla Creation and Maintenance @ Cibernarium, Barcelona / <a href={JoomlaDoc} download="LPICertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
-                    <li>Android Application Creation @ Cibernarium, Barcelona / <a href={AndroidDoc} download="LPICertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>Social Network Analysis (Gephi) @ Cibernarium, Barcelona / <a href={GephiDoc} download="GephiCertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>Facebook Application Creation @ Cibernarium, Barcelona / <a href={FacebookDoc} download="FacebookCertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>Google Apps Administration @ Cibernarium, Barcelona / <a href={GooglePlacesDoc} download="GooglePlacesCertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>Joomla Creation and Maintenance @ Cibernarium, Barcelona / <a href={JoomlaDoc} download="JoomlaCertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>Android Application Creation @ Cibernarium, Barcelona / <a href={AndroidDoc} download="AndroidCertificate.pdf" target="_blank" rel="noreferrer">More info</a></li>
                   </ul>
                 </div>
               </div>
             </div>
         </div>
-
-        <div className="testimonials-container">
-            <div className="testimonials-title">
-              <h4>Testimonials</h4>
-            </div>
-            <div className="testimonials-content">
-              <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7029331160434438144" height="800" width="400" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-            </div>
-        </div>
-        
       </div>
       </>
   )
