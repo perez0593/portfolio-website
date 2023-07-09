@@ -1,5 +1,4 @@
 /* Core imports */
-import React from 'react'
 import Header from '../../components/templateParts/header/Header'
 import Background from '../../components/templateParts/backgroundWebsite/BackgroundWebsite'
 
@@ -86,9 +85,9 @@ export default function About() {
                 </div>
                 <div className="courses-content">
                   <ul>
-                    <li>"Desarrollo de Aplicaciones Multiplataforma FPGS" or "Multiplatform Application Development (DipHE)" in english is an equivalent of an WO Bachelor title (like 3 years HBO) / <a href={DAMDoc} download="Europass DAM.pdf" target="_blank" rel="noreferrer">More info</a></li>
-                    <li>"Administración de Sistemas y Redes FPGS" or "Systems and Network Administration (DipHE)" in english is an equivalent of an WO Bachelor title (like 3 years HBO) / <a href={ASIXDoc} download="Europass ASIX.pdf" target="_blank" rel="noreferrer">More info</a></li>
-                    <li>"Sistemas Microinformáticos y Redes FPGM" or "Microcomputer systems and networks (CertHE)" in english is an equivalent of an WO title (like 2 years HBO) / <a href={SMXDoc} download="Europass SMX.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>&quot;Desarrollo de Aplicaciones Multiplataforma FPGS&quot; or &quot;Multiplatform Application Development (DipHE)&quot; in english is an equivalent of an WO Bachelor title (like 3 years HBO) / <a href={DAMDoc} download="Europass DAM.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>&quot;Administración de Sistemas y Redes FPGS&quot; or &quot;Systems and Network Administration (DipHE)&quot; in english is an equivalent of an WO Bachelor title (like 3 years HBO) / <a href={ASIXDoc} download="Europass ASIX.pdf" target="_blank" rel="noreferrer">More info</a></li>
+                    <li>&quot;Sistemas Microinformáticos y Redes FPGM&quot; or &quot;Microcomputer systems and networks (CertHE)&quot; in english is an equivalent of an WO title (like 2 years HBO) / <a href={SMXDoc} download="Europass SMX.pdf" target="_blank" rel="noreferrer">More info</a></li>
                   </ul>
                 </div>
                 

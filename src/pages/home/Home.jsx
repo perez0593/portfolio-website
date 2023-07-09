@@ -1,5 +1,4 @@
 /* Core imports */
-import React from 'react'
 import Header from '../../components/templateParts/header/Header'
 import Background from '../../components/templateParts/backgroundWebsite/BackgroundWebsite'
 
