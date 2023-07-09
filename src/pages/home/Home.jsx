@@ -19,7 +19,7 @@ export default function Home() {
           <img src={ImageHero} alt="David Perez" className="profile-pic-img" />
         </div>
         <h1>
-          Hoi! ik ben
+          Hi! i&#39;m
           David Perez
         </h1>
         <h2>Full-Stack Developer</h2>

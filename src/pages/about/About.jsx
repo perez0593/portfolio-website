@@ -10,7 +10,8 @@ import SectionTitle from '../../components/global/SectionTitle'
 import DAMDoc from '../../assets/documents/Europass DAM.pdf'
 import ASIXDoc from '../../assets/documents/Europass ASIX.pdf'
 import SMXDoc from '../../assets/documents/Europass SMX.pdf'
-import CVDoc from '../../assets/documents/DavidPerezBarra-CV.pdf'
+import CVDocEN from '../../assets/documents/DavidPerezBarra-CV-EN.pdf'
+import CVDocES from '../../assets/documents/DavidPerezBarra-CV-ES.pdf'
 import LPIDoc from '../../assets/documents/LPICertificate.pdf'
 import GooglePlacesDoc from '../../assets/documents/Cert-GooglePlaces.pdf'
 import JoomlaDoc from '../../assets/documents/Cert-Joomla.pdf'
@@ -34,12 +35,20 @@ export default function About() {
         <div className="text-zone">
           <div className="download-cv-button">
               <a className="btn btn-light"
-                href={CVDoc}
-                download="DavidPerezBarra-CV.pdf"
+                href={CVDocEN}
+                download="DavidPerezBarra-CV-EN.pdf"
                 target="_blank"
                 rel="noreferrer"
               >
-                Download my resume
+                Download my resume (EN)
+              </a>
+              <a className="btn btn-light"
+                href={CVDocES}
+                download="DavidPerezBarra-CV-ES.pdf"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Download my resume (ES)
               </a>
           </div>
         </div>

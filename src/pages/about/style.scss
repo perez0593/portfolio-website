@@ -9,6 +9,12 @@
     align-items: center;
     text-align: center;
     margin: 0 15px 30px 15px;
+
+    .download-cv-button {
+      a {
+        margin: 0px 10px;
+      }
+    }
   }
 
   .skills-container {
